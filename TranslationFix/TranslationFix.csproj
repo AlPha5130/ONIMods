@@ -67,6 +67,7 @@
     <Compile Include="CreateBuildingDefPatch.cs" />
     <Compile Include="MockCustomGameSettings.cs" />
     <Compile Include="MockRoomConstraints.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TranslationFixMain.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

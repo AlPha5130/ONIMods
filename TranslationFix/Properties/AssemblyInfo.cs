@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("TranslationFix")]
+[assembly: AssemblyTitle("Translation Fix")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TranslationFix")]
+[assembly: AssemblyProduct("Oxygen Not Included Mods")]
 [assembly: AssemblyCopyright("Copyright © NekoCharm 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
